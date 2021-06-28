@@ -1,3 +1,7 @@
-function imgt () {
-    document.getElementById("trocarimg").src="assassins-creed.jpg";
+function imgt1 () {
+    document.getElementById("trocarimg").src="eu.png";
+}   
+
+function imgt2 () {
+    document.getElementById("trocarimg").src="eu logo.png";
 }   
